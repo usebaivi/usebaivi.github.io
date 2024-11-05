@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://usebaivi.github.io/KUS/sitemap_index.txt
+Sitemap: https://usebaivi.github.io/Spc/sitemap_index.txt
+Sitemap: https://usebaivi.github.io/sWr/sitemap_index.txt
+Sitemap: https://usebaivi.github.io/tiU/sitemap_index.txt
